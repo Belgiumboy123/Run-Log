@@ -1,0 +1,18 @@
+// ';'  needed?
+
+//for table loops
+
+CREATE TABLE loops(id INTEGER NOT NULL PRIMARY KEY ,name TEXT NOT NULL UNIQUE, miles INTEGER NOT NULL);
+
+//to insert
+
+INSERT INTO loops VALUES(NULL, "<name>", "<miles>");
+
+//to delete
+DELETE FROM loops WHERE name="<name>";
+
+//to update
+
+UPDATE loops SET miles="<miles>" WHERE name="<name>";
+
+

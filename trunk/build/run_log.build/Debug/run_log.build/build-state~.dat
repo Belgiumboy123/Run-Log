@@ -1,0 +1,1048 @@
+Trun_log
+v7
+r0
+t333817628.181162
+cCheck dependencies
+cProcessInfoPlistFile /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Info.plist run_log-Info.plist
+cCopyStringsFile /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/run_log.app/Contents/Resources/runner.icns runner.icns
+cProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Calendar.o /Users/bmoulin/Desktop/rep/trunk/Calendar.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/FileWriter.o /Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Log.o /Users/bmoulin/Desktop/rep/trunk/Log.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loop.o /Users/bmoulin/Desktop/rep/trunk/Loop.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/LoopMenu.o /Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MainWin.o /Users/bmoulin/Desktop/rep/trunk/MainWin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Menu.o /Users/bmoulin/Desktop/rep/trunk/Menu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MenuButton.o /Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MiniTable.o /Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Panel.o /Users/bmoulin/Desktop/rep/trunk/Panel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLog.o /Users/bmoulin/Desktop/rep/trunk/RunLog.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLogController.o /Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunMenu.o /Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/StatsPanel.o /Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/StringManip.o /Users/bmoulin/Desktop/rep/trunk/StringManip.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Table.o /Users/bmoulin/Desktop/rep/trunk/Table.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/main.o /Users/bmoulin/Desktop/rep/trunk/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/GotoPanel.o /Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/HelpPanel.o /Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loops.o /Users/bmoulin/Desktop/rep/trunk/Loops.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Database.o /Users/bmoulin/Desktop/rep/trunk/Database.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log normal i386
+cTouch /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004CB3F2FA000000000000A5F0
+t1286861562
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004CB3F2FA000000000000A5E0
+t1286861562
+s42464
+
+N/Users/bmoulin/Desktop/Sqlite3Wrapper/Sqlite3Wrapper.h
+c000000004E1D1A4A0000000000000344
+t1310530122
+s836
+i<iostream>
+i<vector>
+
+N/Users/bmoulin/Desktop/Sqlite3Wrapper/build/Release/libSqlite3Wrapper.dylib
+c000000004E1D1A500000000000013E08
+t1310530128
+s81416
+
+N/Users/bmoulin/Desktop/rep/trunk/Buttons.h
+c000000004E18E2B10000000000000306
+t1310253745
+s774
+
+N/Users/bmoulin/Desktop/rep/trunk/Calendar.cpp
+c000000004E18E4620000000000003DED
+t1310254178
+s15853
+i"Calendar.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Calendar.h
+c000000004E18E2B10000000000000B5E
+t1310253745
+s2910
+i"FileWriter.h"
+i<ctime>
+
+N/Users/bmoulin/Desktop/rep/trunk/Database.cpp
+c000000004E356EDB00000000000005CC
+t1312124635
+s1484
+i"Database.h"
+i<sqlite3.h>
+
+N/Users/bmoulin/Desktop/rep/trunk/Database.h
+c000000004E356ECD00000000000002E0
+t1312124621
+s736
+i<iostream>
+i<vector>
+
+N/Users/bmoulin/Desktop/rep/trunk/English.lproj/InfoPlist.strings
+c000000004E18E2AE000000000000002D
+t1310253742
+s45
+
+N/Users/bmoulin/Desktop/rep/trunk/FL_Header.h
+c000000004E18E2B1000000000000043F
+t1310253745
+s1087
+i<FL/Fl.H>
+i<FL/Fl_Window.H>
+i<FL/Fl_Box.H>
+i<FL/Fl_Widget.H>
+i<FL/Fl_Button.H>
+i<FL/Fl_Input.H>
+i<FL/Fl_Int_Input.H>
+i<FL/Fl_Choice.H>
+i<FL/Fl_Scroll.H>
+i<FL/Fl_Menu_Bar.H>
+i<FL/Fl_Group.H>
+i<FL/Fl_Input_Choice.H>
+i<FL/Fl_FLoat_Input.H>
+i<FL/Fl_Multiline_Input.H>
+i<FL/Fl_Pack.H>
+i<FL/Fl_Double_Window.H>
+
+N/Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp
+c000000004E18E2B10000000000000832
+t1310253745
+s2098
+i"FileWriter.h"
+i<time.h>
+
+N/Users/bmoulin/Desktop/rep/trunk/FileWriter.h
+c000000004E18E2B100000000000003D5
+t1310253745
+s981
+i"stdio.h"
+i<fstream>
+i<string>
+i<sys/types.h>
+i<sys/stat.h>
+i"StringManip.h"
+i<direct.h>
+
+N/Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp
+c000000004E18E2B10000000000000BFA
+t1310253745
+s3066
+i"GotoPanel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/GotoPanel.h
+c000000004E18E2B10000000000000330
+t1310253745
+s816
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp
+c000000004E18E2B100000000000010FE
+t1310253745
+s4350
+i"HelpPanel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/HelpPanel.h
+c000000004E18E2B100000000000002C5
+t1310253745
+s709
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Log.cpp
+c000000004E18E2B100000000000022A4
+t1310253745
+s8868
+i"Log.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Log.h
+c000000004E18E2B100000000000011AA
+t1310253745
+s4522
+i"FileWriter.h"
+i<map>
+i<list>
+
+N/Users/bmoulin/Desktop/rep/trunk/Loop.cpp
+c000000004E1F94D50000000000000B01
+t1310692565
+s2817
+i"Loop.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Loop.h
+c000000004E1F94B4000000000000064B
+t1310692532
+s1611
+i"StringManip.h"
+i<set>
+
+N/Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp
+c000000004E1F95340000000000002727
+t1310692660
+s10023
+i"LoopMenu.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/LoopMenu.h
+c000000004E1F95030000000000000823
+t1310692611
+s2083
+i"MenuButton.h"
+i"Menu.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Loops.cpp
+c000000004E1D19660000000000000B8A
+t1310529894
+s2954
+i"Loops.h"
+i<iostream>
+
+N/Users/bmoulin/Desktop/rep/trunk/Loops.h
+c000000004E356EB300000000000003BE
+t1312124595
+s958
+i"Database.h"
+i<vector>
+i<string>
+i<map>
+
+N/Users/bmoulin/Desktop/rep/trunk/MainWin.cpp
+c000000004E18E2B1000000000000235F
+t1310253745
+s9055
+i"MainWin.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/MainWin.h
+c000000004E18E2B10000000000000F8E
+t1310253745
+s3982
+i"Table.h"
+i"RunMenu.h"
+i"LoopMenu.h"
+i"MiniTable.h"
+i"StatsPanel.h"
+i"GotoPanel.h"
+i"HelpPanel.h"
+i"FileWriter.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Menu.cpp
+c000000004E18E2B100000000000004CD
+t1310253745
+s1229
+i"Menu.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Menu.h
+c000000004E18E2B10000000000000600
+t1310253745
+s1536
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp
+c000000004E18E2B10000000000000094
+t1310253745
+s148
+i"MenuButton.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/MenuButton.h
+c000000004E18E2B100000000000001F0
+t1310253745
+s496
+i"StringManip.h"
+i"FL_Header.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp
+c000000004E18E2B100000000000013FD
+t1310253745
+s5117
+i"MiniTable.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/MiniTable.h
+c000000004E18E2B10000000000000775
+t1310253745
+s1909
+i"MenuButton.h"
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/ObserverT.h
+c000000004E18E2B10000000000000874
+t1310253745
+s2164
+i<iostream>
+i<vector>
+
+N/Users/bmoulin/Desktop/rep/trunk/Panel.cpp
+c000000004E18E2B10000000000000066
+t1310253745
+s102
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Panel.h
+c000000004E18E2B10000000000000259
+t1310253745
+s601
+i"FileWriter.h"
+i"FL_Header.h"
+i"Buttons.h"
+i"ObserverT.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/RunLog.cpp
+c000000004E18E2B10000000000001496
+t1310253745
+s5270
+i"RunLog.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/RunLog.h
+c000000004E18E2B100000000000009F3
+t1310253745
+s2547
+i"Calendar.h"
+i"Loop.h"
+i"FileWriter.h"
+i"Log.h"
+i<algorithm>
+
+N/Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp
+c000000004E18E4790000000000001C4A
+t1310254201
+s7242
+i"RunLogController.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/RunLogController.h
+c000000004E18E2B10000000000000273
+t1310253745
+s627
+i"MainWin.h"
+i"RunLog.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp
+c000000004E18E2B10000000000003DF3
+t1310253745
+s15859
+i"RunMenu.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/RunMenu.h
+c000000004E18E2B10000000000000A29
+t1310253745
+s2601
+i"MenuButton.h"
+i"Menu.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp
+c000000004E18E2B100000000000008B0
+t1310253745
+s2224
+i"StatsPanel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/StatsPanel.h
+c000000004E18E2B10000000000000262
+t1310253745
+s610
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/StringManip.cpp
+c000000004E18E2B10000000000000FB7
+t1310253745
+s4023
+i"StringManip.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/StringManip.h
+c000000004E18E2B10000000000000520
+t1310253745
+s1312
+i<iostream>
+i<sstream>
+i<vector>
+
+N/Users/bmoulin/Desktop/rep/trunk/Table.cpp
+c000000004E18E2B100000000000012C7
+t1310253745
+s4807
+i"Table.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/Table.h
+c000000004E18E2B1000000000000076C
+t1310253745
+s1900
+i"MenuButton.h"
+i"Panel.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app
+t1312124828
+s102
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Info.plist
+t1312124810
+s922
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log
+t1312124828
+s903476
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/PkgInfo
+t1312124810
+s8
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1312124811
+s45
+
+N/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/runner.icns
+t1312124810
+s90303
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Calendar.o
+t1312124817
+s161144
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Database.o
+t1312124827
+s204072
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/FileWriter.o
+t1312124817
+s97008
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/GotoPanel.o
+t1312124826
+s198492
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/HelpPanel.o
+t1312124827
+s160976
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Log.o
+t1312124819
+s482792
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loop.o
+t1312124818
+s172284
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/LoopMenu.o
+t1312124820
+s256280
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loops.o
+t1312124827
+s266336
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MainWin.o
+t1312124820
+s244012
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Menu.o
+t1312124821
+s169512
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MenuButton.o
+t1312124820
+s76424
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MiniTable.o
+t1312124821
+s192748
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Panel.o
+t1312124822
+s140712
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLog.o
+t1312124822
+s291760
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLogController.o
+t1312124823
+s257872
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunMenu.o
+t1312124824
+s282580
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/StatsPanel.o
+t1312124824
+s159984
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/StringManip.o
+t1312124824
+s134528
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Table.o
+t1312124825
+s180832
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/main.o
+t1312124826
+s312312
+
+N/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/run_log.LinkFileList
+c000000004E356F8A000000000000087E
+t1312124810
+s2174
+
+N/Users/bmoulin/Desktop/rep/trunk/main.cpp
+c000000004E356E0000000000000004AD
+t1312124416
+s1197
+i"RunLogController.h"
+i"Loops.h"
+
+N/Users/bmoulin/Desktop/rep/trunk/runner.icns
+c000000004E18E2B100000000000160BF
+t1310253745
+s90303
+
+N/usr/include/sqlite3.h
+c000000004C239FC5000000000003D86F
+t1277403077
+s252015
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/sys/stat.h
+c000000004C2399480000000000004A1D
+t1277401416
+s18973
+
+N/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/usr/local/include/FL/Fl.H
+c000000004DCC5895000000000000273B
+t1305237653
+s10043
+
+N/usr/local/include/FL/Fl_Box.H
+c000000004DCC589500000000000005BB
+t1305237653
+s1467
+
+N/usr/local/include/FL/Fl_Button.H
+c000000004DCC589500000000000008BC
+t1305237653
+s2236
+
+N/usr/local/include/FL/Fl_Choice.H
+c000000004DCC58950000000000000587
+t1305237653
+s1415
+
+N/usr/local/include/FL/Fl_Double_Window.H
+c000000004DCC58950000000000000757
+t1305237653
+s1879
+
+N/usr/local/include/FL/Fl_Float_Input.H
+c000000004DCC5895000000000000054F
+t1305237653
+s1359
+
+N/usr/local/include/FL/Fl_Group.H
+c000000004DCC58950000000000000CA2
+t1305237653
+s3234
+
+N/usr/local/include/FL/Fl_Input.H
+c000000004DCC58950000000000000568
+t1305237653
+s1384
+
+N/usr/local/include/FL/Fl_Input_Choice.H
+c000000004DCC5895000000000000164A
+t1305237653
+s5706
+
+N/usr/local/include/FL/Fl_Int_Input.H
+c000000004DCC5895000000000000053A
+t1305237653
+s1338
+
+N/usr/local/include/FL/Fl_Menu_Bar.H
+c000000004DCC5895000000000000055D
+t1305237653
+s1373
+
+N/usr/local/include/FL/Fl_Multiline_Input.H
+c000000004DCC58950000000000000566
+t1305237653
+s1382
+
+N/usr/local/include/FL/Fl_Pack.H
+c000000004DCC589500000000000005D8
+t1305237653
+s1496
+
+N/usr/local/include/FL/Fl_Scroll.H
+c000000004DCC589500000000000007EC
+t1305237653
+s2028
+
+N/usr/local/include/FL/Fl_Widget.H
+c000000004DCC58950000000000001DE1
+t1305237653
+s7649
+
+N/usr/local/include/FL/Fl_Window.H
+c000000004DCC58950000000000000FFC
+t1305237653
+s4092
+
+N/usr/local/lib/libfltk.a
+c000000004DCC589600000000000DAED0
+t1305237654
+s896720
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-axkacxxxikhudaglzzlstnnbauem/Carbon.h.gch
+t1310528805
+s53716784
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h.gch
+t1312124816
+s53716784
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dfpnnnqasksedrbelpdlkguhxmef/Carbon.h.gch
+t1310528114
+s53716784
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-eojmzshqoskxubabshqqzungtuva/Carbon.h.gch
+t2
+s0
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-etrtnvtxnngegcaimoidodourclm/Carbon.h.gch
+t2
+s0
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-furknaaxannvoqdpxdfpxzmjlcvf/Carbon.h.gch
+t1310529154
+s53716784
+
+N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ghruoitbfcdyjmahrsgmkzcuuspk/Carbon.h.gch
+t1310528926
+s53716784
+
+Nrun_log-Info.plist
+c000000004E18E2B100000000000003F5
+t1310253745
+s1013
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333817610#333817610#0(0"0(0#1#0"8619880384#0"0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Calendar.o /Users/bmoulin/Desktop/rep/trunk/Calendar.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817616.453242
+e333817617.672267
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Calendar.o
+x/Users/bmoulin/Desktop/rep/trunk/Calendar.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/bmoulin/Desktop/rep/trunk/Calendar.cpp333817616#333817617#0(0"0(0#0#45"/Users/bmoulin/Desktop/rep/trunk/Calendar.cpp8604102464#989"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Calendar.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Calendar.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Database.o /Users/bmoulin/Desktop/rep/trunk/Database.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817627.121808
+e333817627.948524
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Database.o
+x/Users/bmoulin/Desktop/rep/trunk/Database.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/bmoulin/Desktop/rep/trunk/Database.cpp333817627#333817627#0(0"0(0#0#45"/Users/bmoulin/Desktop/rep/trunk/Database.cpp8619600192#989"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Database.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Database.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/FileWriter.o /Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817616.454310
+e333817617.893672
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/FileWriter.o
+x/Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp333817616#333817617#0(0"0(0#0#47"/Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp8600412800#993"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/FileWriter.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/FileWriter.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/GotoPanel.o /Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817625.814753
+e333817626.787478
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/GotoPanel.o
+x/Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp333817625#333817626#0(0"0(0#0#46"/Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp8619619296#991"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/GotoPanel.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/GotoPanel.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/HelpPanel.o /Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817626.184236
+e333817627.121693
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/HelpPanel.o
+x/Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp333817626#333817627#0(0"0(0#0#46"/Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp8619364352#991"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/HelpPanel.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/HelpPanel.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Log.o /Users/bmoulin/Desktop/rep/trunk/Log.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817617.672364
+e333817619.180463
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Log.o
+x/Users/bmoulin/Desktop/rep/trunk/Log.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/bmoulin/Desktop/rep/trunk/Log.cpp333817617#333817619#0(0"0(0#0#40"/Users/bmoulin/Desktop/rep/trunk/Log.cpp8617529088#979"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Log.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Log.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loop.o /Users/bmoulin/Desktop/rep/trunk/Loop.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817617.893772
+e333817618.899699
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Loop.o
+x/Users/bmoulin/Desktop/rep/trunk/Loop.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/bmoulin/Desktop/rep/trunk/Loop.cpp333817617#333817618#0(0"0(0#0#41"/Users/bmoulin/Desktop/rep/trunk/Loop.cpp8604136416#981"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Loop.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loop.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/LoopMenu.o /Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817618.899898
+e333817620.128529
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/LoopMenu.o
+x/Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp333817618#333817620#0(0"0(0#0#45"/Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp8617262400#989"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/LoopMenu.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/LoopMenu.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loops.o /Users/bmoulin/Desktop/rep/trunk/Loops.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817626.787578
+e333817627.779767
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Loops.o
+x/Users/bmoulin/Desktop/rep/trunk/Loops.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/bmoulin/Desktop/rep/trunk/Loops.cpp333817626#333817627#0(0"0(0#0#42"/Users/bmoulin/Desktop/rep/trunk/Loops.cpp8617787296#983"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Loops.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Loops.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MainWin.o /Users/bmoulin/Desktop/rep/trunk/MainWin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817619.180558
+e333817620.155914
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/MainWin.o
+x/Users/bmoulin/Desktop/rep/trunk/MainWin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/bmoulin/Desktop/rep/trunk/MainWin.cpp333817619#333817620#0(0"0(0#0#44"/Users/bmoulin/Desktop/rep/trunk/MainWin.cpp8622007552#987"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/MainWin.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MainWin.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Menu.o /Users/bmoulin/Desktop/rep/trunk/Menu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817620.128634
+e333817621.323452
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Menu.o
+x/Users/bmoulin/Desktop/rep/trunk/Menu.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/bmoulin/Desktop/rep/trunk/Menu.cpp333817620#333817621#0(0"0(0#0#41"/Users/bmoulin/Desktop/rep/trunk/Menu.cpp8617438880#981"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Menu.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Menu.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MenuButton.o /Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817620.156030
+e333817620.803053
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/MenuButton.o
+x/Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp333817620#333817620#0(0"0(0#0#47"/Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp8617083712#993"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/MenuButton.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MenuButton.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/MiniTable.o /Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817620.803233
+e333817621.875048
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/MiniTable.o
+x/Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp333817620#333817621#0(0"0(0#0#46"/Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp8604453472#991"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/MiniTable.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/MiniTable.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Panel.o /Users/bmoulin/Desktop/rep/trunk/Panel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817621.323549
+e333817622.282451
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Panel.o
+x/Users/bmoulin/Desktop/rep/trunk/Panel.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/bmoulin/Desktop/rep/trunk/Panel.cpp333817621#333817622#0(0"0(0#0#42"/Users/bmoulin/Desktop/rep/trunk/Panel.cpp8603902720#983"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Panel.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Panel.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLog.o /Users/bmoulin/Desktop/rep/trunk/RunLog.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817621.875150
+e333817622.949738
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLog.o
+x/Users/bmoulin/Desktop/rep/trunk/RunLog.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/bmoulin/Desktop/rep/trunk/RunLog.cpp333817621#333817622#0(0"0(0#0#43"/Users/bmoulin/Desktop/rep/trunk/RunLog.cpp8617052960#985"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/RunLog.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLog.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLogController.o /Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817622.282551
+e333817623.352650
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLogController.o
+x/Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp333817622#333817623#0(0"0(0#0#53"/Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp8617086112#1005"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/RunLogController.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunLogController.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunMenu.o /Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817622.949922
+e333817624.232995
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/RunMenu.o
+x/Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp333817622#333817624#0(0"0(0#0#44"/Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp8603793888#987"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/RunMenu.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/RunMenu.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/StatsPanel.o /Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817623.352746
+e333817624.642588
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/StatsPanel.o
+x/Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp333817623#333817624#0(0"0(0#0#47"/Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp8617520224#993"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/StatsPanel.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/StatsPanel.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/StringManip.o /Users/bmoulin/Desktop/rep/trunk/StringManip.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817624.233096
+e333817624.950360
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/StringManip.o
+x/Users/bmoulin/Desktop/rep/trunk/StringManip.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/bmoulin/Desktop/rep/trunk/StringManip.cpp333817624#333817624#0(0"0(0#0#48"/Users/bmoulin/Desktop/rep/trunk/StringManip.cpp8617876608#995"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/StringManip.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/StringManip.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/Table.o /Users/bmoulin/Desktop/rep/trunk/Table.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817624.642768
+e333817625.814657
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/Table.o
+x/Users/bmoulin/Desktop/rep/trunk/Table.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/bmoulin/Desktop/rep/trunk/Table.cpp333817624#333817625#0(0"0(0#0#42"/Users/bmoulin/Desktop/rep/trunk/Table.cpp8617911168#983"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/Table.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/Table.o0#
+
+CCompileC build/run_log.build/Debug/run_log.build/Objects-normal/i386/main.o /Users/bmoulin/Desktop/rep/trunk/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s333817624.950479
+e333817626.184066
+r1
+xCompileC
+xbuild/run_log.build/Debug/run_log.build/Objects-normal/i386/main.o
+x/Users/bmoulin/Desktop/rep/trunk/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/bmoulin/Desktop/rep/trunk/main.cpp333817624#333817626#0(0"0(0#0#41"/Users/bmoulin/Desktop/rep/trunk/main.cpp8616860704#981"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h -c /Users/bmoulin/Desktop/rep/trunk/main.cpp -o /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s333817610.953429
+e333817611.155203
+r1
+xCopyStringsFile
+x/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings333817610#333817611#0(0"0(0#0#64"/Users/bmoulin/Desktop/rep/trunk/English.lproj/InfoPlist.strings8604611936#352"    cd /Users/bmoulin/Desktop/rep/trunk    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-8 English.lproj/InfoPlist.strings --outdir /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/run_log.app/Contents/Resources/runner.icns runner.icns
+s333817610.954333
+e333817610.990886
+r1
+xCpResource
+xbuild/Debug/run_log.app/Contents/Resources/runner.icns
+xrunner.icns
+lSLF07#2@16"Copy runner.icns333817610#333817610#0(0"0(0#0#44"/Users/bmoulin/Desktop/rep/trunk/runner.icns8604561280#323"    cd /Users/bmoulin/Desktop/rep/trunk    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/bmoulin/Desktop/rep/trunk/runner.icns /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Resources0#
+
+CLd /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log normal i386
+s333817627.948615
+e333817628.162309
+r1
+xLd
+x/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log
+xnormal
+xi386
+lSLF07#2@84"Link /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log333817627#333817628#0(0"0(0#0#0"8619834592#435"    cd /Users/bmoulin/Desktop/rep/trunk    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/bmoulin/Desktop/rep/trunk/build/Debug -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -filelist /Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/Objects-normal/i386/run_log.LinkFileList -lsqlite3 -lfltk -framework Cocoa -framework Carbon -o /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/MacOS/run_log0#
+
+CProcessInfoPlistFile /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Info.plist run_log-Info.plist
+s333817610.935568
+e333817610.953301
+r1
+xProcessInfoPlistFile
+x/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Info.plist
+xrun_log-Info.plist
+lSLF07#2@26"Process run_log-Info.plist333817610#333817610#0(0"0(0#0#51"/Users/bmoulin/Desktop/rep/trunk/run_log-Info.plist8606501984#292"    cd /Users/bmoulin/Desktop/rep/trunk    builtin-infoPlistUtility run_log-Info.plist -genpkginfo /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app/Contents/Info.plist0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-axkacxxxikhudaglzzlstnnbauem/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s332221602.329396
+e332221605.751376
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-axkacxxxikhudaglzzlstnnbauem/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h332221602#332221605#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8617737952#968"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include "-I/Users/bmoulin/Desktop/rep/trunk/../Sqlite3Wrapper/** /usr/local/include /usr/local/include/FL/images" -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-axkacxxxikhudaglzzlstnnbauem/Carbon.h.gch0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s333817611.155327
+e333817616.453090
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h333817611#333817616#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8603891424#902"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/Users/bmoulin/Desktop/Sqlite3Wrapper -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkgomlmufaswsclhlfkukvjprry/Carbon.h.gch0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dfpnnnqasksedrbelpdlkguhxmef/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s332220909.076023
+e332220914.250418
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dfpnnnqasksedrbelpdlkguhxmef/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h332220909#332220914#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8605024864#914"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include -I/usr/local/include -I/usr/local/include/FL/images -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dfpnnnqasksedrbelpdlkguhxmef/Carbon.h.gch0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-eojmzshqoskxubabshqqzungtuva/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s332221842.884717
+e332221846.328400
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-eojmzshqoskxubabshqqzungtuva/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h332221842#332221846#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8622115712#924"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include "-I/Users/bmoulin/Desktop/Sqlite3Wrapper/ /usr/local/include" -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-eojmzshqoskxubabshqqzungtuva/Carbon.h.gch0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-etrtnvtxnngegcaimoidodourclm/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-furknaaxannvoqdpxdfpxzmjlcvf/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s332221950.816651
+e332221954.381180
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-furknaaxannvoqdpxdfpxzmjlcvf/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h332221950#332221954#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8624371520#906"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include "-I/Users/bmoulin/Desktop/Sqlite3Wrapper/ " -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-furknaaxannvoqdpxdfpxzmjlcvf/Carbon.h.gch0#
+
+CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ghruoitbfcdyjmahrsgmkzcuuspk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s332221722.994262
+e332221726.426819
+r1
+xProcessPCH++
+x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ghruoitbfcdyjmahrsgmkzcuuspk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h332221722#332221726#0(0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8622419040#939"    cd /Users/bmoulin/Desktop/rep/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -mfix-and-continue -Wno-deprecated-declarations -gdwarf-2 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/run_log.hmap -F/Users/bmoulin/Desktop/rep/trunk/build/Debug -I/Users/bmoulin/Desktop/rep/trunk/build/Debug/include "-I/Users/bmoulin/Desktop/rep/trunk/../Sqlite3Wrapper/** /usr/local/include" -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/rep/trunk/build/run_log.build/Debug/run_log.build/DerivedSources -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ghruoitbfcdyjmahrsgmkzcuuspk/Carbon.h.gch0#
+
+CTouch /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app
+s333817628.162397
+e333817628.181113
+r1
+xTouch
+x/Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app
+lSLF07#2@62"Touch /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app333817628#333817628#0(0"0(0#0#0"8617843456#119"    cd /Users/bmoulin/Desktop/rep/trunk    /usr/bin/touch -c /Users/bmoulin/Desktop/rep/trunk/build/Debug/run_log.app0#
+

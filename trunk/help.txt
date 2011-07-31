@@ -1,0 +1,47 @@
+Logging Runs:
+
+Adding a Run:
+				 In order for a run to be added the 'Miles' field must not be empty.
+Editing a Run:
+				 Select the run you wish to edit from the list on the right, make your changes
+				 and then press 'Edit'.  Note: If you press add after making some changes it will
+				 add a new run rather than editing the old one.
+Deleting a Run:
+				To delete a run press either the 'X' button in top right hand corner of the run on
+				the right or selected it from the list and press the 'Delete' button.
+
+Back:			This will take the user back to the month or week view that was displayed before 
+				this day.
+
+Navigating Main Windwow
+
+Day/Week/Month Views:
+				
+				Each of the three buttons will change which days are being displayed.  
+				Clicking on a day in week or month mode will display the day that was clicked.
+
+Next/Previous:
+				Clicking on the arrows next to the current day will take you to the next or previous
+				day/week/month.
+
+Today:			This button brings you the 'day' view of today's day.
+
+Close:			Closes down the program.  Note: The current entered runs will automatically be saved.
+
+Stastics:		Botton right corner shows the total amount of miles run in a specific period. 
+				Clicking the button there will display different periods, miles per week for the month
+				you are currently viewing and miles per month for the current year.
+
+Mini-Month:		Top right hand corner will always display the current month you are viewing. If you are viewing
+				a week or day these day(s) will be highlighted with a red color.  
+				The current day will be colored yellow. Clicking on the days will bring the user to the 'day' view 
+				of that day.  Note: You can click on days not currently in the current month.
+
+LoopMenu:		This will display all your entered loops, and similar to adding/deleting runs, the user can 
+				delete and add loops. 
+
+				The 'Done' button will bring user back to 'Month' view.
+
+Goto:			This will allow user to go to a specific day or month. The currently viewed day is loaded up by default.
+				The 'Goto Day' button will bring user to the chosen day view. 'Goto Month' will bring user to the
+				selected month view.

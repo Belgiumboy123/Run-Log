@@ -1,0 +1,72 @@
+#pragma warning(disable:4786)
+#pragma warning(disable:4503)
+#include "RunLogController.h"
+
+
+class base 
+{
+public:
+
+	base(){}
+	virtual ~base(){}
+};
+
+class middle : public base 
+{
+public:
+
+	middle(){}
+	virtual void print() { cout << "print middle" << endl; }
+	virtual ~middle(){}
+};
+
+class top : public middle
+{
+public:
+
+	top(){}
+	void print() { cout << "print top" << endl;	}
+	virtual ~top(){}
+};
+
+class top2 : public middle
+{
+public:
+
+	top2(){}
+	void print() { cout << "print top2" << endl;	}
+	virtual ~top2(){}
+};
+
+/** to be placed into own main / seperate xcode target
+ *
+ * Run once on versions that have not yet generated 2nditem stats files.
+ */
+void build2ndItemsFromScratch()
+{
+	Log log;
+	LoopVector m_Loops;
+	const string& data2 = ReadFromFile( "RunLog.txt" );
+	const string& data1 = ReadFromFile( "Loops.txt" );
+	m_Loops.buildVector( data1 );
+	log.buildLog( data2 );
+
+	//
+	multimap<string,string,stringCompare> m = log.getMap();
+	multimap<string,string,stringCompare>::iterator it = m.begin();
+	for( ; it!= m.end(); it++)
+	{
+		if( m_Loops.contains( log.getSecondItem( it->second ) ) )
+			log.add2ndItemStats( it->first, it->second ); 
+	}
+	log.write2ndItemStatsToFile();
+}
+
+int main(int argc, char **argv)
+{	
+	resetTrace();
+	RunLogController rlc;
+	Fl::scheme( "plastic" );
+	Fl::visual(FL_DOUBLE|FL_INDEX);
+	return Fl::run();
+}

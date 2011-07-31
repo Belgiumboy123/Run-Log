@@ -1,0 +1,18 @@
+
+
+BUGS  
+
+	lots of loops scrolling in loopmenu
+
+IMPROVEMENTS
+
+	when in week mode and click on little calendar it should
+	stay in weekmode
+
+TODO
+
+	move header file inclusions to cpp files
+	a namespace/header for all constant gui strings
+   	database backup instead of files
+   	lifting workouts
+   
